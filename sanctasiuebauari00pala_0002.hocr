@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctasiuebauari00pala_0002.png"; bbox 0 0 2660 4274; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 692 1974 1973 2282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 692 1974 1973 2282">
+     <span class='ocr_line' id='line_1_1' title="bbox 692 1974 1973 2061; baseline 0.002 -20"><span class='ocrx_word' id='word_1_1' title='bbox 692 1974 1029 2061; x_wconf 62' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 1066 1974 1154 2061; x_wconf 83' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 1184 1974 1307 2043; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1346 1974 1645 2043; x_wconf 70' lang='lat' dir='ltr'><strong>{memet</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1676 1974 1973 2043; x_wconf 73' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 823 2093 1836 2180; baseline 0 -20"><span class='ocrx_word' id='word_1_6' title='bbox 823 2093 881 2160; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 917 2095 1113 2162; x_wconf 80' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 1145 2093 1300 2162; x_wconf 75' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1335 2093 1627 2180; x_wconf 74' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1662 2093 1836 2162; x_wconf 79' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 976 2212 1682 2282; baseline -0.003 0"><span class='ocrx_word' id='word_1_11' title='bbox 976 2212 1199 2282; x_wconf 76' lang='lat' dir='ltr'>Sloan</span> <span class='ocrx_word' id='word_1_12' title='bbox 1240 2213 1682 2282; x_wconf 72' lang='lat' dir='ltr'>Foundation</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 243 3986 2423 4073">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 243 3986 2423 4073">
+     <span class='ocr_line' id='line_1_4' title="bbox 243 3986 2423 4073; baseline 0.001 -20"><span class='ocrx_word' id='word_1_13' title='bbox 243 3986 2423 4073; x_wconf 64' lang='lat' dir='ltr'>http:lswwwarchive.orqsdetai{sssanctasiuebauarioopala</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
